@@ -1,0 +1,7 @@
+For using the program, set the path of the file or the disk image you want to analyze.
+The program determines the following:
+1) Type of Partition
+2) The size and number of clusters and sectors
+3) Start and end of the partition and sectors
+4) Information about the FAT entries
+5) Information about the NTFS entries
